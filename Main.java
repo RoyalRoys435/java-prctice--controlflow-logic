@@ -68,6 +68,8 @@ class Main {
       default:
         System.out.println("there is no drink you might be interested in");
         break;
+        
     }
+    sc.close();
   }
 }
